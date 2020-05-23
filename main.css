@@ -1,3 +1,16 @@
 body{
-    background-image: url("IMG_2889.jpeg")
+    background-image: url("background.png");
+    font-family:sans-serif;
+    color:black;
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+    font-size: 80px;
+}
+h2{
+    font-size:75px;
+}
+span{
+    text-align: center;
 }
